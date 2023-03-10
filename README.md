@@ -3,9 +3,10 @@
 <h2>
     Resources are used:
 </h2>
-<ul>
-    <il>
-    <a href="https://learn.javascript.ru/"> Online book </a>
-    </il>
-</ul>
-
+<section>
+    <ul>
+        <il>
+        <a href="https://learn.javascript.ru/"> Online book </a>
+        </il>
+    </ul>
+</section>
