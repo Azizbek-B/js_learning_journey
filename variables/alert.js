@@ -41,3 +41,8 @@ message='World';
 // the previous value of variable "message" was "Hello", now it's a "World"
 
 alert(message)
+
+
+/*
+
+*/
