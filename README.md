@@ -8,8 +8,30 @@ A simple summary of gained knowledges
 </h2>
 <section>
     <ul>
-        <il>
-        <a href="https://learn.javascript.ru/"> Online book </a>
+        
+        <li>
+            <a href="https://learn.javascript.ru/"> Online book </a>
+        </li>
+        
+        <li>
+            <a hreg="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"> Language specification</a>
+        </li>
+        
+        <li>
+            <details>
+            <summary>References</summary>
+                <ul>
+                    <li>
+                        <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference">MDN (Mozilla) JavaScript Reference</a>
+                    </li>
+
+                    <li>
+                        <a href="https://msdn.microsoft.com/">MSDN</a>
+                    </li>
+                    
+                </ul>
+            </details>
         </il>
+
     </ul>
 </section>

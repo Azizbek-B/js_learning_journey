@@ -42,7 +42,29 @@ message='World';
 
 alert(message)
 
+// we can also copy the value of one variable to another one 
+
+message=message2
+
+// Btw, we can declare varible only once 
 
 /*
+let message = "something sussy"
+let message = "another thing"
 
 */
+
+// The naming of variables are simple, we can user characters, symbols ($,_) and/or numbers
+// But numbers can not be in the begining
+
+/*
+let first_Var = 1
+
+the wrong option:
+let 1_Var = 1
+*/
+
+/* Non latin sybols are not restricted, but not recomended */
+
+// you can not use reserved words for naming, like let and alert
+
