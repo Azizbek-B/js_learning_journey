@@ -19,7 +19,7 @@ A simple summary of gained knowledges
         
         <li>
             <details>
-            <summary>References</summary>
+                <summary>References</summary>
                 <ul>
                     <li>
                         <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference">MDN (Mozilla) JavaScript Reference</a>
@@ -28,10 +28,10 @@ A simple summary of gained knowledges
                     <li>
                         <a href="https://msdn.microsoft.com/">MSDN</a>
                     </li>
-                    
+
                 </ul>
             </details>
-        </il>
+        </li>
 
     </ul>
 </section>
