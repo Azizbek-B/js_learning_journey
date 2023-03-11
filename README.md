@@ -7,7 +7,7 @@ A simple summary of gained knowledges
     Resources are used:
 </h2>
 <section>
-    <ul>
+    <ul style="list-style: none;">
         <li>
             <a href="https://learn.javascript.ru/"> Online book </a>
         </li>
@@ -15,7 +15,7 @@ A simple summary of gained knowledges
             <a hreg="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"> Language specification</a>
         </li>
         <li>
-            <details>
+            <details open>
                 <summary>References</summary>
                 <ul>
                     <li> <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference">MDN (Mozilla) JavaScript Reference</a> </li>
