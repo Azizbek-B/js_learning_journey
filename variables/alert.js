@@ -68,3 +68,22 @@ let 1_Var = 1
 
 // you can not use reserved words for naming, like let and alert
 
+// // // Constatnts // // //
+// If developer shure that the value of variables will not be changed, or edited in the future you can use const key instead of let
+
+
+
+const immutable_var = "Hello. world!";
+
+// This piece of code will be cause to error
+// immutable_var = "Hello, world!";
+
+
+
+const COLOR_RED = "#F00";
+const COLOR_GREEN = "#0F0";
+const COLOR_BLUE = "#00F";
+const COLOR_ORANGE = "#FF7F00";
+
+// Big letters are used to identeify constants that contain difficult values to memorize, like colors
+

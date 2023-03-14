@@ -3,16 +3,16 @@
 <blockquote>
 A simple summary of gained knowledges
 </blockquote>
+<section>
 <h2>
     Resources are used:
 </h2>
-<section>
-    <ul style="list-style: none;">
+    <ul>
         <li>
             <a href="https://learn.javascript.ru/"> Online book </a>
         </li>
         <li>
-            <a hreg="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"> Language specification</a>
+            <a hreg="https://www.ecma-international.org/publications-and-standards/standards/ecma-262"> Language specification</a>
         </li>
         <li>
             <details open>
